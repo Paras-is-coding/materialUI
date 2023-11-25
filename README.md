@@ -16,5 +16,11 @@
 - To use the font Icon component or the prebuilt SVG Material Icon
     - `npm install @mui/icons-material`
 
+# Usage 
+- Material-UI components can be easily integrated into your React application.
+     To use a component, import it and incorporate it into your JSX.
+- Use different props to make changes
+    
+
 
 
